@@ -19,5 +19,4 @@ public class Announcement {
     private int price;
     private String description;
     boolean status;
-
 }
