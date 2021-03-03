@@ -18,4 +18,6 @@ public class Announcement {
     private Seller seller;
     private int price;
     private String description;
+    boolean status;
+
 }
