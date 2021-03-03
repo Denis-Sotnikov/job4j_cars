@@ -3,9 +3,7 @@ create table cars (
   marka text,
   model text,
   bodytype text,
-  photoId text,
   color text,
-  name text,
   yearOfCarManufacture int
 );
 
